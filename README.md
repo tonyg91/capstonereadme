@@ -19,4 +19,6 @@ A user can use this page to view different types of bullet journals, supplies, a
  -page: String,
  -creator: String
 
- 
+ ## Tech
+ -Django
+ -React or Svelte
